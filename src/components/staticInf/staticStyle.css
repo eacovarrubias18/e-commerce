@@ -1,0 +1,28 @@
+.centerText{
+    text-align: justify;
+    margin: 3vh 3vh;
+
+    
+
+  }
+.title{
+    text-align: center;
+}
+.infBox{
+    background-color: rgba(212, 212, 212, 0.344);
+    display: flex;
+    margin: 3vh 3vh;
+    z-index: 3;
+
+}
+.infImg{
+    width: 50%;
+    height: 50%;
+    border-radius: 20%;
+    margin: 3vh 3vh;
+}
+.commentBox{
+    width: 100%;
+    margin: 3vh 3vh;
+    text-align: center;
+}
